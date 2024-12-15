@@ -123,17 +123,37 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/12/14 、チェンライ郊外のパートゥン温泉に行ってきました !!!</marquee></span></h1>
 
 
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
 
 <h2><span class="yellow">場所はメーチャン中心部の道路を閉鎖して開催されます<br>画像のクリックでGoogleMapsに飛びます</span></h2>
 
-<a href="https://www.google.com/maps/@20.143699,99.8537608,15z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241213_003.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/@20.143699,99.8537608,15z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241215_001.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">この市場、常設の場所ではなく、市内中心部の道路を封鎖して大々的に毎週開催されます</span></h2>
 
-
+<a href="IMG_1859.HEIC" target="_blank"><img src="IMG_1859.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1860.HEIC" target="_blank"><img src="IMG_1860.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1861.HEIC" target="_blank"><img src="IMG_1861.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1862.HEIC" target="_blank"><img src="IMG_1862.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1863.HEIC" target="_blank"><img src="IMG_1863.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1864.HEIC" target="_blank"><img src="IMG_1864.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1865.HEIC" target="_blank"><img src="IMG_1865.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1866.HEIC" target="_blank"><img src="IMG_1866.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1867.HEIC" target="_blank"><img src="IMG_1867.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1868.HEIC" target="_blank"><img src="IMG_1868.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1869.HEIC" target="_blank"><img src="IMG_1869.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1870.HEIC" target="_blank"><img src="IMG_1870.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1871.HEIC" target="_blank"><img src="IMG_1871.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1872.HEIC" target="_blank"><img src="IMG_1872.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1873.HEIC" target="_blank"><img src="IMG_1873.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1874.HEIC" target="_blank"><img src="IMG_1874.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1875.HEIC" target="_blank"><img src="IMG_1875.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1876.HEIC" target="_blank"><img src="IMG_1876.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1877.HEIC" target="_blank"><img src="IMG_1877.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1878.HEIC" target="_blank"><img src="IMG_1878.HEIC" alt="サンプル画像" width="900" /></a>
 
 
 
