@@ -128,9 +128,9 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">場所はメーチャン中心部の道路を閉鎖して開催されます<br>画像のクリックでGoogleMapsに飛びます</span></h2>
+<h2><span class="yellow">場所はメーチャン市街から西に5分ほど車で走ったところ<br>画像のクリックでGoogleMapsに飛びます</span></h2>
 
-<a href="https://www.google.com/maps/@20.143699,99.8537608,15z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241215_001.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/@20.1172836,99.7980841,14.85z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241215_001.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">この市場、常設の場所ではなく、市内中心部の道路を封鎖して大々的に毎週開催されます</span></h2>
 
