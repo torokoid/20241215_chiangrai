@@ -137,7 +137,9 @@ p.note { display: none; }
 <a href="IMG_1859.HEIC" target="_blank"><img src="IMG_1859.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1860.HEIC" target="_blank"><img src="IMG_1860.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1861.HEIC" target="_blank"><img src="IMG_1861.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1862.HEIC" target="_blank"><img src="IMG_1862.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">画像クリックで、看板内のQRコードリンク先（温泉の案内）に飛びます</span></h2>
+<a href="https://sites.google.com/view/patuenghotsprings/" target="_blank"><img src="IMG_1862.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1863.HEIC" target="_blank"><img src="IMG_1863.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1864.HEIC" target="_blank"><img src="IMG_1864.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1865.HEIC" target="_blank"><img src="IMG_1865.HEIC" alt="サンプル画像" width="900" /></a>
