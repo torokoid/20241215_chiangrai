@@ -132,7 +132,7 @@ p.note { display: none; }
 
 <a href="https://www.google.com/maps/@20.1172836,99.7980841,14.85z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241215_001.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">従業員の女性が携帯で事務所と交わした会話は日本語でした</span></h2>
+<h2><span class="yellow">従業員の女性が携帯で事務所と交わした会話は、なんと日本語！</span></h2>
 
 <a href="IMG_1859.HEIC" target="_blank"><img src="IMG_1859.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1860.HEIC" target="_blank"><img src="IMG_1860.HEIC" alt="サンプル画像" width="900" /></a>
