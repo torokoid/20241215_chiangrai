@@ -141,13 +141,13 @@ p.note { display: none; }
 <a href="IMG_1863.HEIC" target="_blank"><img src="IMG_1863.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1864.HEIC" target="_blank"><img src="IMG_1864.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1865.HEIC" target="_blank"><img src="IMG_1865.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1866.HEIC" target="_blank"><img src="IMG_1866.HEIC" alt="サンプル画像" width="900" /></a>
+
 <a href="IMG_1867.HEIC" target="_blank"><img src="IMG_1867.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1868.HEIC" target="_blank"><img src="IMG_1868.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1869.HEIC" target="_blank"><img src="IMG_1869.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1870.HEIC" target="_blank"><img src="IMG_1870.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1871.HEIC" target="_blank"><img src="IMG_1871.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1872.HEIC" target="_blank"><img src="IMG_1872.HEIC" alt="サンプル画像" width="900" /></a>
+
 <a href="IMG_1873.HEIC" target="_blank"><img src="IMG_1873.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1874.HEIC" target="_blank"><img src="IMG_1874.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1875.HEIC" target="_blank"><img src="IMG_1875.HEIC" alt="サンプル画像" width="900" /></a>
