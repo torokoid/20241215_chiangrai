@@ -132,29 +132,42 @@ p.note { display: none; }
 
 <a href="https://www.google.com/maps/@20.1172836,99.7980841,14.85z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241215_001.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">従業員の女性が携帯で事務所と交わした会話は、なんと日本語！</span></h2>
+<h2><span class="yellow">大きな売店（お土産さん）もありました</span></h2>
 
 <a href="IMG_1859.HEIC" target="_blank"><img src="IMG_1859.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1860.HEIC" target="_blank"><img src="IMG_1860.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">温泉施設はこの建物</span></h2>
 <a href="IMG_1861.HEIC" target="_blank"><img src="IMG_1861.HEIC" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">画像クリックで、看板内のQRコードリンク先（温泉の案内）に飛びます</span></h2>
 <a href="https://sites.google.com/view/patuenghotsprings/" target="_blank"><img src="IMG_1862.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1863.HEIC" target="_blank"><img src="IMG_1863.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1864.HEIC" target="_blank"><img src="IMG_1864.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">従業員の女性が携帯で事務所と交わした会話は、なんと日本語！</span></h2>
 <a href="IMG_1865.HEIC" target="_blank"><img src="IMG_1865.HEIC" alt="サンプル画像" width="900" /></a>
 
 <a href="IMG_1867.HEIC" target="_blank"><img src="IMG_1867.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1868.HEIC" target="_blank"><img src="IMG_1868.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1869.HEIC" target="_blank"><img src="IMG_1869.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">湯量と温度調整はお客さん任せ</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M1s27rgT2Ko?si=acRRdxoD4om5mJny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2><span class="yellow">1人用の小さいタイプもありました</span></h2>
 <a href="IMG_1870.HEIC" target="_blank"><img src="IMG_1870.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1871.HEIC" target="_blank"><img src="IMG_1871.HEIC" alt="サンプル画像" width="900" /></a>
 
 <a href="IMG_1873.HEIC" target="_blank"><img src="IMG_1873.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1874.HEIC" target="_blank"><img src="IMG_1874.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1875.HEIC" target="_blank"><img src="IMG_1875.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">案内人形の先には噴水の池</span></h2>
+<a href="IMG_1874.HEIC" target="_blank"><img src="IMG_1874.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1876.HEIC" target="_blank"><img src="IMG_1876.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1877.HEIC" target="_blank"><img src="IMG_1877.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">傘さして見学中のお客さん</span></h2>
 <a href="IMG_1878.HEIC" target="_blank"><img src="IMG_1878.HEIC" alt="サンプル画像" width="900" /></a>
 
 
